@@ -1,10 +1,10 @@
 # mlx_ocr
 
 ## Install
-1. Download the [model](https://huggingface.co/facebook/nougat-base)
+1. Download the [model](https://huggingface.co/facebook/nougat-small)
    ```shell
    git lfs install
-   git clone https://huggingface.co/facebook/nougat-base
+   git clone https://huggingface.co/facebook/nougat-small
    ```
 2. if you use a virtual env (recommended), activate it, then:
    ```shell
