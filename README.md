@@ -1,10 +1,10 @@
 # mlx_ocr
 
 ## Install
-1. Download the [model](https://huggingface.co/Norm/nougat-latex-base)
+1. Download the [model](https://huggingface.co/facebook/nougat-base)
    ```shell
    git lfs install
-   git clone https://huggingface.co/Norm/nougat-latex-base
+   git clone https://huggingface.co/facebook/nougat-base
    ```
 2. if you use a virtual env (recommended), activate it, then:
    ```shell
